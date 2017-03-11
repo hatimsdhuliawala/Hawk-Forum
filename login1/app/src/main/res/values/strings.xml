@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">HawksForum</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="invalid_email">This email address is invalid</string>
+    <string name="invalid_password">Password is too short</string>
+    <string name="incorrect_password">Password is incorrect</string>
+    <string name="field_required">This field is required</string>
+
+    <string-array name="options">
+        <item>Home</item>
+        <item>Post Query</item>
+        <item>Change Department</item>
+        <item>FAQs</item>
+        <item>LogOut</item>
+    </string-array>
+    <string name="title_activity_load_query">HomePage</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_post_query">PostQuery</string>
+    <string name="title_activity_create_locker">CreateLocker</string>
+    <string name="title_activity_forgot_password">ForgotPassword</string>
+    <string name="title_activity_reply_query">ReplyQuery</string>
+    <string name="title_activity_list_of_department">ListOfDepartment</string>
+    <string name="title_activity_question_and_answer">QuestionAndAnswer</string>
+    <string name="content_desc_splashlogo">Splash Logo</string>
+
+    <string-array name="FAQquestions">
+        <item>Can I see questions posted in other department?</item>
+        <item>Can I post queries and answer for other department?</item>
+        <item>Can I delete a post?</item>
+        <item>Can I recover my login password if I forget?</item>
+        <item>How do I view the replies posted for a question?</item>
+        <item>How can I sign out of the app?</item>
+        <item>How do I post a new question?</item>
+        <item>How do I get back to my homepage?</item>
+    </string-array>
+    <string-array name="FAQanswers">
+        <item>Yes you can. You can do that by selecting the option "Change department" under the navigation drawer </item>
+        <item>Yes of course you can post question/reply to questions in other departments as well</item>
+        <item>Yes if the post is created by you. Long press on a post to delete the post.</item>
+        <item>Yes you can by clicking forgot password in the login screen.</item>
+        <item>If you just click on any question, automatically the replies for that question will be shown</item>
+        <item>Yes. You can do that by selecting the option "LogOut" under the navigation drawer</item>
+        <item>First select "Post Query" under the navigation drawer. The type in your question in the screen that appears and click on "Submit" button</item>
+        <item>Select the option "Home" from the navigation drawer</item>
+    </string-array>
+    <string-array name="AboutUs">
+        <item>• Hawks Forum is a platform where current and alumni students of Illinois Institute of Technology(IIT) can interact with each other.</item>
+        <item>• You can post your questions on subjects,career,etc.</item>
+        <item>• Feel free to reply any question posted by other students.</item>
+        <item>• Questions and answers are categorized department wise.</item>
+        <item>• You can view/post questions of any department.</item>
+        <item>• Explore the side navigation drawer for options.</item>
+        <item>• Please refer the FAQs under side navigation panel if you have doubts.</item>
+    </string-array>
+</resources>

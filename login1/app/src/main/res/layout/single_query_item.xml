@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:id="@+id/imageIcon1"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="5dp"
+        android:src="@drawable/image_icon" />
+
+    <TextView
+        android:id="@+id/userIDText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="User ID"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="16sp"
+        android:layout_marginTop="15dp"
+        android:layout_toRightOf="@+id/imageIcon1"
+        android:layout_alignBottom="@+id/imageIcon1"/>
+
+    <TextView
+        android:id="@+id/dateTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="mm/dd/yyyy"
+        android:layout_alignBottom="@+id/userIDText"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="16sp"
+        android:layout_marginTop="15dp"/>
+
+    <TextView
+        android:id="@+id/queryText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/userIDText"
+        android:layout_marginLeft="5dp"
+        android:text="Queries will appear here"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:layout_alignLeft="@+id/imageIcon1"
+        android:layout_toLeftOf="@+id/buttonReply"
+        android:layout_toStartOf="@+id/buttonReply"
+        android:layout_marginBottom="15dp"/>
+
+    <Button
+        android:id="@+id/buttonReply"
+        style="?android:attr/buttonStyleSmall"
+        android:textSize="12sp"
+        android:layout_width="wrap_content"
+        android:layout_marginRight="10dp"
+        android:layout_alignParentRight="true"
+        android:layout_height="20dp"
+        android:layout_below="@+id/dateTime"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/bg_button_cornered_primary"
+        android:text="Reply"
+        android:textColor="@color/white"
+        android:layout_marginBottom="15dp"/>
+
+</RelativeLayout>

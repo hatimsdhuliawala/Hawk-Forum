@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_account_balance_black_36dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/post"
+            android:icon="@drawable/ic_create_black_36dp"
+            android:title="Post new Question" />
+        <item
+            android:id="@+id/department"
+            android:icon="@drawable/ic_cached_black_36dp"
+            android:title="Change Department" />
+        <item
+            android:id="@+id/faqs"
+            android:icon="@drawable/ic_help_outline_black_36dp"
+            android:title="FAQs" />
+        <item
+            android:id="@+id/aboutus"
+            android:icon="@drawable/ic_action_social_people_outline"
+            android:title="About Us" />
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/ic_power_settings_new_black_36dp"
+            android:title="Log Out" />
+    </group>
+
+</menu>

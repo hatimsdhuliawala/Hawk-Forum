@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\load_query.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\src\\main\\res\\menu\\load_query.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_load_query_drawer.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\src\\main\\res\\menu\\activity_load_query_drawer.xml"
+    }
+]

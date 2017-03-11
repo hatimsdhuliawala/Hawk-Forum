@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_icon.jpg",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\src\\main\\res\\drawable\\image_icon.jpg"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_image.jpg",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\src\\main\\res\\drawable\\navigation_image.jpg"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_home.png",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\src\\main\\res\\drawable\\ic_home.png"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\idea.png",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\src\\main\\res\\drawable\\idea.png"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_hawk.png",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\src\\main\\res\\drawable\\ic_hawk.png"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_change.png",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\src\\main\\res\\drawable\\ic_change.png"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_post.png",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\src\\main\\res\\drawable\\ic_post.png"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_button_cornered_primary.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\src\\main\\res\\drawable\\bg_button_cornered_primary.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.jpg",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\src\\main\\res\\drawable\\bg.jpg"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\launch_hawk.png",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\src\\main\\res\\drawable\\launch_hawk.png"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_button.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\src\\main\\res\\drawable\\bg_button.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_draw.png",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\src\\main\\res\\drawable\\ic_action_draw.png"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_button_cornered.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\src\\main\\res\\drawable\\bg_button_cornered.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_logout.png",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\src\\main\\res\\drawable\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_faqs.png",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\src\\main\\res\\drawable\\ic_faqs.png"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\CS442\\Workspace\\login1 (1)\\login1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    }
+]
